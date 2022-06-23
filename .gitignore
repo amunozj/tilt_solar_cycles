@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Plots
+*.png
+
+# Original data
+data/BARD_1976-1993_KPVT_tilts.csv
+data/BARD_1992-1999_SPMG_tilts.csv
+data/BARD_1996-2010_MDI_tilts.csv
+data/BARD_2010-2016_HMI_tilts.csv
