@@ -1,0 +1,10 @@
+﻿name: bard_tilt
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pip
+  - matplotlib
+  - pandas
+  - scipy
+  - tqdm
