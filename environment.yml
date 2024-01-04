@@ -12,3 +12,4 @@ dependencies:
   - umap-learn
   - scikit-learn
   - seaborn
+  - colorcet
