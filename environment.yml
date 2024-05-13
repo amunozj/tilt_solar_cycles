@@ -8,8 +8,11 @@ dependencies:
   - matplotlib
   - pandas
   - scipy
+  - xarray
+  - zarr
   - tqdm
   - umap-learn
   - scikit-learn
   - seaborn
   - colorcet
+  - sunpy
